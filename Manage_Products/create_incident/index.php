@@ -10,6 +10,7 @@ if ($debug) {
 require_once('../model/database.php');
 require_once('../model/customer_db.php');
 require_once('../model/product_db.php');
+/* this is a comment added in PHP Storm */
 
 $action =  $_GET['action'];
 
